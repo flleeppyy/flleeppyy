@@ -1,16 +1,30 @@
-### Hi there 👋
+<!-- Inspired by Espis readme -->
+### Hiya, I'm Chen :3
 
-<!--
-**flleeppyy/flleeppyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, graphics designer, and some other things that you dont need to care about.
 
-Here are some ideas to get you started:
+- ℹShe/Her/Fae/Faer, PST/PDT (California)
+- 💻 Javascript/Typescript, Java, C#, Some python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Contact
+
+- Discord (flleeppyy#2839)
+- [Twitter][twitter] (@flleeppyy)
+- [Telegram][telegram] (@flleeppyy)
+- [Email][email] (flleeppyybusiness<span>@</span>gmail.com)
+
+### 👀 Amazing people
+
+- [Espi](https://twitter.com/sysdotini)
+- [Cirno](https://twitter.com/htfcirno2000)
+- [EuphoriaEnby](https://twitter.com/euphoriaenby)
+- [Brianna](https://twitter.com/utsuhorocks)
+- [Ezio](https://twitter.com/ezioisntcool56)
+- [Lucy](https://twitter.com/Absolucyyy)
+- [dd🌺](https://github.com/dd86k)
+
+I can't get everyone, otherwise this page would be very long.
+
+[twitter]: https://twitter.com/flleeppyy "A link to my twitter"
+[telegram]: https://t.me/sysdotini "A link to contact me on Telegram"
+[email]: mailto:flleeppyybusiness@gmail.com "A link to quickly email me on gmail"
