@@ -13,7 +13,7 @@ I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, grap
 - [Telegram][telegram] (@flleeppyy)
 - [Email][email] (flleeppyybusiness<span>@</span>gmail.com)
 
-### 👀 Amazing people
+### 💜 Amazing people
 
 - [Espi](https://twitter.com/sysdotini)
 - [Cirno](https://twitter.com/htfcirno2000)
