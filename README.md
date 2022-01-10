@@ -26,5 +26,5 @@ I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, grap
 I can't get everyone, otherwise this page would be very long.
 
 [twitter]: https://twitter.com/flleeppyy "A link to my twitter"
-[telegram]: https://t.me/sysdotini "A link to contact me on Telegram"
+[telegram]: https://t.me/flleeppyy "A link to contact me on Telegram"
 [email]: mailto:flleeppyybusiness@gmail.com "A link to quickly email me on gmail"
