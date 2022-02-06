@@ -4,7 +4,7 @@
 I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, graphics designer, and some other things that you dont need to care about.
 
 - ℹShe/Her/Fae/Faer, PST/PDT (California)
-- 💻 Javascript/Typescript, Java, C#, Some python
+- 💻 Javascript/Typescript, Java, and C#
 
 ### 🔗 Contact
 
