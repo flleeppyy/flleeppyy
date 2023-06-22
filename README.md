@@ -8,7 +8,7 @@ I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, grap
 
 ### 🔗 Contact
 
-- Discord (flleeppyy#2839)
+- Discord (@flleeppyy) (rip discriminators, horrible change)
 - [Twitter][twitter] (@flleeppyy)
 - [Telegram][telegram] (@flleeppyy)
 - [Email][email] (flleeppyybusiness<span>@</span>gmail.com)
