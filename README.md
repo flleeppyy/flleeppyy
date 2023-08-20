@@ -15,7 +15,7 @@ I'm a hobbyist full-stack developer, as well as a music producer, sysadmin, grap
 
 ### 💜 Amazing people
 
-- [Espi](https://twitter.com/sysdotini)
+- [Espi](https://espi.me)
 - [Cirno](https://twitter.com/htfcirno2000)
 - [EuphoriaEnby](https://twitter.com/euphoriaenby)
 - [Brianna](https://twitter.com/utsuhorocks)
