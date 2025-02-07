@@ -1,7 +1,3 @@
--- ponytown things
-
-hat [https://safe.fleepy.tv/files/FJCiLo2G.png](https://safe.fleepy.tv/files/FJCiLo2G.png)
-
 <!-- Inspired by Espis readme -->
 ### Hiya, I'm Chen :3
 
