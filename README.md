@@ -15,6 +15,6 @@ I am also a sysadmin and tech advisor for [Monkestation](https://monkestation.co
 - [Telegram][telegram] (@flleeppyy)
 
 
-[twitter]: https://bsky.app/profile/fleepy.tv "A link to my Bluesky"
+[bluesky]: https://bsky.app/profile/fleepy.tv "A link to my Bluesky"
 [telegram]: https://t.me/flleeppyy "A link to contact me on Telegram"
 [email]: mailto:flleeppyybusiness@gmail.com "A link to quickly email me on gmail"
